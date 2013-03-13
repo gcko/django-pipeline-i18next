@@ -7,7 +7,7 @@ django-pipeline i18next that takes translation files in YML format and adds them
 
 setup(
   name='django-pipeline-i18next',
-  version='0.1.0',
+  version='0.1.1',
   description=description,
   long_description=description,
   author='Jared Scott',
